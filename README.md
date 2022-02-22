@@ -1,4 +1,9 @@
-# Website
+## Project Description
+
+This is a practice repository, in which I will explore and document some of the functionality of [Amazon Redshift](https://aws.amazon.com/pm/redshift/). 
+
+
+### Website
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
